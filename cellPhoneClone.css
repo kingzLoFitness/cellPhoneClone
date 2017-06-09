@@ -1,3 +1,95 @@
+/* overall */
 * {
-	border: 1px solid black;
+	border: 1px solid white;
+	color: white;
+	background: black;
+}
+
+/* body */
+div {
+	margin-left: 200px;
+	margin-right: 200px;
+
+}
+
+
+/* 1st Header Logo w/ Navigation */
+nav {
+	display: block;
+}
+
+#navCenter li {
+	margin-right: 30px;
+}
+
+
+.rightSide {
+	float: right;
+	margin-left: 415px;
+}
+
+
+/* 2nd Header Row - Navigation */
+.title {
+	display: inline;
+}
+
+.subNav {
+	display: block;
+	float: right;
+}
+
+.subNav a {
+	margin-right: 50px;
+}
+
+
+
+
+
+/* first visual */
+p {
+	width: 410px;
+}
+
+.imgFloatRight {
+	float: right;
+}
+
+
+/* third visual section */
+/* this is where I left off */
+.buttonsStacked {
+	display: block;
+}
+
+
+/* fourth line visual (3 images) */
+
+nav ul {
+	display: inline-block;
+}
+
+/* fifth line */
+
+
+/* sixth line (3 images w/ text on top of each other) and background image at the bottom of it */
+
+ul li {
+	display: inline-block;
+}
+
+
+
+/* seventh line (another 3 images w/ text, one on top of each other) */
+
+
+
+/* 8th line (2 images centered w/ text (aligned top) on top of each other) */
+
+
+
+
+section + h4 {
+	float: left;
 }
